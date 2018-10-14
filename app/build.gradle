@@ -29,7 +29,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
 
-    compile 'com.theartofdev.edmodo:android-image-cropper:2.5.1'
-    compile 'com.rmtheis:tess-two:8.0.0'
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.5.1'
+    implementation 'com.rmtheis:tess-two:8.0.0'
 
 }
